@@ -1,2 +1,2 @@
 # Math-156-project
-Final project for Math 156 at UCLA
+Final project for Math 156 (Machine Learning) at UCLA
