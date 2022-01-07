@@ -15,16 +15,3 @@ on the quality of the generated text. The modified
 parameters include
 batch size, epoch size, activation function,
 and layer architecture.
-
-The most interesting thing to me about this project is the
-difference in performance between the GRU and the LSTM model.
-I found it surprising that the GRU would outperform
-the LSTM to such a high degree.
-The superior performance of GRU over LSTM, besides potential
-issues in optimizing initial parameters differently between
-RNN’s, may be attributable to the fact that the training set
-was both small, having only been trained on one novel,
-and lengthy, given that Ulysses is composed of over
-one million characters. Still, this is merely a hypothesis,
-and as such remains an interesting open question that I 
-hope to address in the future.
