@@ -1,4 +1,3 @@
-# text-generation-RNN
 Final project for Math 156 (Machine Learning) at UCLA.
 
 Inspired by Andrej Karpathy's blog post, "The Unreasonable
