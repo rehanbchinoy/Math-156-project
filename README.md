@@ -1,4 +1,4 @@
-Final project for Math 156 (Machine Learning) at UCLA.
+# Final project for Math 156 (Machine Learning) at UCLA.
 
 Inspired by Andrej Karpathy's blog post, "The Unreasonable
 Effectiveness of Neural Networks", my team trained a
